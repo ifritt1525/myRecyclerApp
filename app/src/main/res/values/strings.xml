@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Nations</string>
+
+    <string-array name="Countries">
+        <item>USA</item>
+        <item>Canada</item>
+        <item>Mexico</item>
+        <item>Russia</item>
+        <item>Germany</item>
+        <item>Spain</item>
+        <item>France</item>
+        <item>China</item>
+        <item>Japan</item>
+        <item>New Zealand</item>
+        <item>Egypt</item>
+        <item>Greece</item>
+    </string-array>
+
+    <string-array name="Region">
+        <item>North America</item>
+        <item>North America</item>
+        <item>Central America</item>
+        <item>Europe</item>
+        <item>Europe</item>
+        <item>Europe</item>
+        <item>Europe</item>
+        <item>Asia</item>
+        <item>Asia</item>
+        <item>Oceanic</item>
+        <item>Europe</item>
+        <item>Europe</item>
+    </string-array>
+</resources>
